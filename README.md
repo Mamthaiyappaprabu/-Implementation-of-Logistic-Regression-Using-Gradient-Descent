@@ -124,7 +124,7 @@ np.mean(predict(res.x,X)==y)
 ## Output:
 ### Array Value of x:
 
-![logistic regression using gradient descent](./Array%20of%20x.png)
+![model](./Array%20of%20x.png)
 ### Array Value of y:
 
 ![model](./array%20of%20y.png)
