@@ -124,33 +124,33 @@ np.mean(predict(res.x,X)==y)
 ## Output:
 ### Array Value of x:
 
-![model](./Array%20of%20x.png)
+![model](./out1.png)
 ### Array Value of y:
 
-![model](./array%20of%20y.png)
+![model](./out2.png)
 ### Exam 1 - score graph:
 
-![model](./exam1%20score%20graph.png)
+![model](./out3.png)
 ### Sigmoid function graph:
 
-![model](./sigmoid.png)
+![model](./out4.png)
 ### X_train_grad value:
 
-![model](./x%20train.png)
+![model](./out5.png)
 ### Y_train_grad value:
 
-![model](./y%20train.png)
+![model](./out6.png)
 ### Print res.x:
 
-![model](./res%20x.png)
+![model](./out7.png)
 ### Decision boundary - graph for exam score:
 
-![model](./decision%20boundary.png)
+![model](./out8.png)
 ### Proability value:
-![model](./prob%20value.png)
+![model](./out9.png)
 ### Prediction value of mean:
 
-![model](./mean.png)
+![model](./out10.png)
 
 
 
